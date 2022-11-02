@@ -1,0 +1,18 @@
+.videoList__table{
+    margin-top: 3px;
+}
+.videoList__table, .videoList__table-item{
+    width: 100%;
+}
+.form__group-lable{
+    margin-left: 16px;
+    display: inline-block;
+}
+.form__inline{
+    margin-top: 4px;
+}
+.btn{
+   
+    margin-top: 4px;
+    margin-bottom: 12px;
+}

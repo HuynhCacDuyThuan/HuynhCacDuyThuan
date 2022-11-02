@@ -1,0 +1,79 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 64px;
+}
+.card{
+    margin: auto;
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    border: 1px solid #ccc;;
+}
+
+.card__header{
+    font-size: 1.6rem;
+    margin-bottom: 24px;
+    padding: 24px;
+    background-color: rgb(241, 238, 238);
+    
+}
+
+.card__haeder-text{
+    font-weight: 400;
+
+}
+
+.card__body{
+    background-color: #fff;
+}
+
+.form__group{
+    padding: 0px 10px;
+}
+
+.form__group-label{
+    display: block;
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+    opacity: 0.9;
+}
+
+.form__group-input{
+    display: block;
+    width: 100%;
+    height: 36px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    
+}
+
+.form__group-small{
+    display: block;
+    font-size: 1rem;
+    font-weight: 100;
+    opacity: 0.8;
+    margin-top: 4px;
+    margin-bottom: 12px;
+}
+
+
+
+
+.form__check{
+    font-size: 1.2rem;
+    padding: 12px 8px;
+
+}
+
+
+.card-footer{
+    padding-bottom: 10px;
+    border-top: 1px solid #ccc;;
+}
+
+.btn-success{
+    margin-top: 10px;
+    width: 100px;
+}
